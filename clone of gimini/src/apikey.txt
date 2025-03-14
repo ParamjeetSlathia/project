@@ -1,0 +1,5 @@
+AIzaSyAVkmDek1YnuV8Ir4SWjxdhYZJyJP27UW4
+
+
+https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyAVkmDek1YnuV8Ir4SWjxdhYZJyJP27UW4
+
